@@ -45,7 +45,6 @@ This repository contains a full 2D top-down dungeon crawler game template featur
 │   ├── Class diagram.png
 │   ├── new_diagram.png
 │   ├── new_diagram.uxf
-│   └── Game Development Report.pdf
 ├── .classpath                # Eclipse Classpath Configuration
 ├── .project                  # Eclipse Project Metadata
 ├── .gitignore                # Git Ignore Rules
