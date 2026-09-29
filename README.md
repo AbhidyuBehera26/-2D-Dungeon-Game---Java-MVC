@@ -1,14 +1,14 @@
-# 🎮 2D Dungeon Game - Java MVC Template
+# 2D Dungeon Game - Java MVC Template
 
 A 2D Dungeon Crawler game written in Java using Swing and AWT graphics, structured cleanly around the **Model-View-Controller (MVC)** architectural pattern.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This repository contains a full 2D top-down dungeon crawler game template featuring animated sprites, enemy AI pathfinding/chase logic, combat mechanics, potion pickups, level progression, and state save/load capabilities.
 
-### 🎯 Key Features
+### Key Features
 - **MVC Architecture**: Decoupled Model (game state), Viewer (rendering), and Controller (user input).
 - **Player Mechanics**: Player movement, rotation, health bar, sword attacks, and character selection (Red Knight / Blue Knight).
 - **Enemies & Combat**: Dynamic enemy spawns (Goblins and Skeletons) with health and potion drop mechanics.
@@ -18,7 +18,7 @@ This repository contains a full 2D top-down dungeon crawler game template featur
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── src/                      # Java Source Code
@@ -54,7 +54,7 @@ This repository contains a full 2D top-down dungeon crawler game template featur
 
 ---
 
-## 🕹️ Controls & Hotkeys
+## Controls & Hotkeys
 
 | Action | Control / Key |
 | :--- | :--- |
@@ -65,7 +65,7 @@ This repository contains a full 2D top-down dungeon crawler game template featur
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **Java Development Kit (JDK 8 or higher)** installed.
@@ -88,13 +88,4 @@ java -cp bin MainWindow
 
 ---
 
-## 📄 Documentation
 
-For full architectural details, design choices, and class relationships, refer to:
-- [Class Diagram](docs/Class%20diagram.png)
-- [Game Development Report](docs/Game%20Development%20Report.pdf)
-
----
-
-## 📝 License
-This project is open-source and intended for educational and template usage.
